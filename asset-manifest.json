@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc127879.css",
+    "main.js": "/static/js/main.c7a87791.js",
+    "static/js/787.f0d32745.chunk.js": "/static/js/787.f0d32745.chunk.js",
+    "static/media/mobile-screens.png": "/static/media/mobile-screens.e0851a8b860e970a7a47.png",
+    "static/media/Plexxos-color.png": "/static/media/Plexxos-color.9391f9fbd8c824117a8c.png",
+    "index.html": "/index.html",
+    "main.dc127879.css.map": "/static/css/main.dc127879.css.map",
+    "main.c7a87791.js.map": "/static/js/main.c7a87791.js.map",
+    "787.f0d32745.chunk.js.map": "/static/js/787.f0d32745.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc127879.css",
+    "static/js/main.c7a87791.js"
+  ]
+}
