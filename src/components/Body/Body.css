@@ -1,12 +1,12 @@
-:root {
-  --primary-color: rgba(101, 63, 150, 1);
-  --secondary-color: rgba(29, 156, 201, 1);
-}
-
-.body {
+.gradient-container {
   background: linear-gradient(
     90deg,
     var(--primary-color),
     var(--secondary-color)
   );
+}
+@media (max-width: 360px) {
+  .sm-screen {
+    top: 570px;
+  }
 }

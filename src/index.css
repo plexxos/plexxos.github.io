@@ -8,8 +8,16 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+:root {
+  --primary-color: rgba(101, 63, 150, 1);
+  --secondary-color: rgba(29, 156, 201, 1);
 }
 
 @tailwind base;
