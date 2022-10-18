@@ -16,7 +16,11 @@ const Body = () => {
               management.
             </div>
 
-            <a href="https://google.com">
+            <a
+              href="https://docs.google.com/forms/d/e/1FAIpQLSd9_9VYafr7unYLC0-kMc_DN3CogNIau0IJzX3MutXyZoAXDQ/viewform?usp=sf_link"
+              rel="noreferrer"
+              target="_blank"
+            >
               <div className="text-base leading-[24px] font-medium bg-white py-[18px] w-[80%] text-center rounded-[20px] sm:text-[22px] sm:leading-[120%] sm:w-[264px]">
                 Join our Waitlist
               </div>
