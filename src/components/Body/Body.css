@@ -7,6 +7,19 @@
 }
 @media (max-width: 360px) {
   .sm-screen {
-    top: 570px;
+    top: 590px;
+    width: 260px;
+    height: 372px;
+  }
+}
+@media (min-width: 1440px) {
+  .sm-screen {
+    width: 450px;
+    height: 645px;
+    left: 62%;
+  }
+
+  .body {
+    margin-bottom: 200px;
   }
 }

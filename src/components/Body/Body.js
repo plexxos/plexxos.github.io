@@ -4,9 +4,9 @@ import "./Body.css";
 
 const Body = () => {
   return (
-    <section className="px-6 mt-[39px] h-auto sm:mt-[139px] lg:px-10 lg:w-[100vw] lg:overflow-x-clip body">
-      <div className="w-full gradient-container rounded-t-[60px] h-[576px] px-[20px] pt-[55px] md:px-[40px]">
-        <div className="h-[306px]">
+    <section className="px-6 mt-[39px] h-auto sm:mt-[139px] xl:px-36 lg:w-[100vw] lg:px-[60px] lg:mb-[100px] body">
+      <div className="w-full gradient-container rounded-t-[60px] pt-[45px] h-[576px] px-[20px] md:px-[40px] sm:flex sm:items-center sm:pb-[100px]">
+        <div className="h-[306px] ">
           <div className="text-white text-4xl leading-[50px] font-bold sm:text-[56px] sm:leading-[120%] md:w-[562px]">
             Connect your healthcare team
           </div>
@@ -31,7 +31,7 @@ const Body = () => {
       <img
         src={mobileScreens}
         alt="mobileScreens"
-        className="absolute top-[529px] w-[293.64] h-[400.1px] sm:w-[692px] sm:h-[843px] sm:left-[10%] lg:top-[90px] lg:left-[47%] lg:w-[692px] lg:h-[843px] xl:left-[55%] sm-screen"
+        className="sm-screen absolute top-[539px] w-[293.64px] h-[421px] left-[12%] sm:w-[550px] sm:h-[788px] sm:top-[650px] sm:left-[10%] lg:top-[185px] lg:left-[58%] lg:w-[400px] lg:h-[573px] xl:left-[60%]"
       />
     </section>
   );
